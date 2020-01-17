@@ -240,6 +240,6 @@ Type: THROMBOSIS
 ---
 Comments: 
 Direction: ''
-Lex: parenchymal
+Lex: 
 Regex: 
-Type: 
+Type: PARENCHYMAL
