@@ -238,8 +238,8 @@ Lex: thrombosis
 Regex: (thromb(us|i|osis|osed)\b|clob\b)
 Type: THROMBOSIS
 ---
-Comments: Extremity
+Comments: 
 Direction: ''
 Lex: parenchymal
 Regex: (parenchymal)
-Type: PARENCHYMAL
+Type: 
