@@ -243,3 +243,9 @@ Direction: ''
 Lex: parenchymal
 Regex: (parenchymal)
 Type: PARENCHYMAL
+---
+Comments: Extremity
+Direction: ''
+Lex: nodes
+Regex: (nodes)
+Type: NODES
