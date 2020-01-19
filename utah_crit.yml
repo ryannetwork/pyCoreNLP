@@ -253,5 +253,5 @@ Type: NODES
 Comments: Extremity
 Direction: ''
 Lex: autoimmune disease
-Regex: ''
+Regex: (autoimmune)
 Type: ''
