@@ -249,3 +249,9 @@ Direction: ''
 Lex: nodes
 Regex: (nodes)
 Type: NODES
+---
+Comments: Extremity
+Direction: ''
+Lex: autoimmune disease
+Regex: (autoimmune disease)
+Type: 
