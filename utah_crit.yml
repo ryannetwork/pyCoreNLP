@@ -250,7 +250,7 @@ Lex: nodes
 Regex: (nodes)
 Type: NODES
 ---
-Comments:
+Comments: Extrimity
 Direction: ''
 Lex: autoimmune
 Regex: autoimmune
