@@ -255,11 +255,6 @@ Direction: ''
 Lex: autoimmune
 Regex: autoimmune
 Type: AUTOIMMUNE
-  Comments: ''
-Direction: ''
-Lex: gross
-Regex: (gross\s(bleeding))
-Type: PULMONARY_EMBOLISM
 ---
 Comments: ''
 Direction: ''
