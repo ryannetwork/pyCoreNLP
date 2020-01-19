@@ -256,25 +256,19 @@ Lex: autoimmune
 Regex: autoimmune
 Type: AUTOIMMUNE
 ---
-Comments: ''
-Direction: ''
-Lex: gross
-Regex: (gross\s(bleeding))
-Type: PULMONARY_EMBOLISM
----
-Comments: ''
+Comments: ipilimumab
 Direction: ''
 Lex: ipilimumab
 Regex: (ipilimumab)
 Type: ipilimumab
 ---
-Comments: ''
+Comments: nivolumab
 Direction: ''
 Lex: nivolumab
 Regex: (nivolumab)
 Type: nivolumab
 ---
-Comments: ''
+Comments: melanoma
 Direction: ''
 Lex: melanoma
 Regex: (melanoma)
