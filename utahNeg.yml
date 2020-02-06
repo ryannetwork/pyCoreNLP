@@ -1,0 +1,732 @@
+Comments: ''
+Direction: backward
+Lex: are ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: can be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: cannot totally be excluded
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: could be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: free
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: has been ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: have been ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is negative
+Regex: (is|was) negative
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 2/28/2013; added definitely; removed ed
+Direction: backward
+Lex: is not entirely excluded
+Regex: (is|was|are|were|does)\snot\s(entirely|totally|definitely|completely\s) excluded
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: might be ruled out
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: must be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 3/22/2013
+Direction: backward
+Lex: not definitively seen
+Regex: not definitively (seen|visualized)
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: unlikely
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: was ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 2/28/2013
+Direction: backward
+Lex: would not be expected
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: 2/28/2013
+Direction: bidirectional
+Lex: cannot be completely excluded
+Regex: cannot\sbe\s((entirely|completely|totally)\s)?(excluded|ruled out)
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: clear
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: may be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: no longer noted
+Regex: no longer (seen|noted|visualized)
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 3/23/2013
+Direction: bidirectional
+Lex: not
+Regex: \bnot\b
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 4/29/2013
+Direction: bidirectional
+Lex: questionable
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: absence of
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: adequate to rule the patient out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 4/29/2013
+Direction: forward
+Lex: atypical for
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: can be ruled out for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: can rule the patient out
+Regex: can rule (her|him|the patient) out
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: cannot totally exclude
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: could be ruled out for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: declined
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: declines
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: denied
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: denies
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: deny
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: denying
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: did rule (the patient|him|her) out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: did rule out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: did rule her out against
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: fails to reveal
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: free of
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: gram negative
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: low probability
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: might be ruled out for
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: 3/22/2013
+Direction: forward
+Lex: mimicking
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: must be ruled out for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: negative examination for
+Regex: negative (examination|study|exam|evaluation) for
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: negative for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: never developed
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: never had
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: 'no'
+Regex: \bno\b
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 2/28/2013; changed from probable to definite
+Direction: forward
+Lex: no abnormal
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no cause of
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no convincing
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no definite
+Regex: no[\s]*definite
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 2/28/2013; added other probably consider simplifying re as XYZ
+Direction: forward
+Lex: no evidence of
+Regex: (no|without)\s((definite|other|definitive|secondary|indirect)\s)?((radiographic|sonographic|CT)\s)?evidence\s(of|for)
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no findings of
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no findings to indicate
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no new
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no obvious
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no other
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no sign of
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no significant
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no signs
+Regex: no sign(s)?
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no definite signs of
+Regex: (no|without) (definite|definitive|secondary|indirect) ((radiographic|sonographic|CT)\s)?signs\s(of|for)
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no suggestion
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 2/14/2013
+Direction: forward
+Lex: no XYZ to suggest
+Regex: (\b(without|no)\b[\d\D\s]*to suggest)
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: nor
+Regex: \bnor\b
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not appreciate
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not associated with
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not cause
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: not certain whether
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: 3/22/2013
+Direction: forward
+Lex: not clearly evident
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not complain of
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not demonstrate
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not drain
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: not exhibit
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not extend
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: not feel
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not had
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not have
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not necessarily
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: not reveal
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not see
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not to be
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: nothing
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: patient was not
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 4/16/2013
+Direction: forward
+Lex: ruled her out against
+Regex: ruled\s(him|her|the subject|the patient|subject|patient)\sout( against| for)?
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: ruled out against
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: ruled out for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules her out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules her out for
+Regex: rules\s(him|her)\sout\sfor
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules him out
+Regex: rules\s(him|her)\sout
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules him out for
+Regex: rules\s(him|her)\sout\sfor
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules out for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules the patient out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: rules the patient out for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: 3/22/2013
+Direction: forward
+Lex: simulating
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: sufficient to rule out
+Regex: sufficient\sto\srule\s((her|him|the patient|the subject)\s)?out
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: to exclude
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: unremarkable for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: with no
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: without
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: without difficulty
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: without indication
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: without sign
+Regex: without sign(s)?
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: '#NAME?'
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: (no|nothing) convincing
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: (the patient|him|her) was not
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: can rule out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: can rule out against
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: can rule out for
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: completely excluded
+Regex: (completely|entirely)? excluded
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: excluded
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no other (CT|radiographic|sonographic|MR|etc) evidence
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no secondary (CT|radiographic|sonographic|MR|etc) signs
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: no suspicious
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: bidirectional
+Lex: not likely
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: forward
+Lex: not only
+Regex: ''
+Type: PSEUDONEG
+---
+Comments: ''
+Direction: forward
+Lex: decrease the likelihood
+Regex: decreas[a-z]+(\sthe)? likelihood
+Type: PROBABLE_NEGATED_EXISTENCE
+---
