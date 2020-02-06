@@ -1,43 +1,43 @@
 Comments: ''
 Direction: backward
 Lex: are ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: can be ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: cannot totally be excluded
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: could be ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: free
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: has been ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: have been ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -55,25 +55,25 @@ Type: PROBABLE_NEGATED_EXISTENCE
 Comments: ''
 Direction: backward
 Lex: is ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: is ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: might be ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: must be ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: 3/22/2013
@@ -85,19 +85,19 @@ Type: PROBABLE_NEGATED_EXISTENCE
 Comments: ''
 Direction: bidirectional
 Lex: unlikely
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: backward
 Lex: was ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: 2/28/2013
 Direction: backward
 Lex: would not be expected
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: 2/28/2013
@@ -109,13 +109,13 @@ Type: PROBABLE_NEGATED_EXISTENCE
 Comments: ''
 Direction: bidirectional
 Lex: clear
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: bidirectional
 Lex: may be ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -133,37 +133,37 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: 4/29/2013
 Direction: bidirectional
 Lex: questionable
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: bidirectional
 Lex: ruled out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: absence of
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: adequate to rule the patient out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: 4/29/2013
 Direction: forward
 Lex: atypical for
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: can be ruled out for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -175,109 +175,103 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: cannot totally exclude
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: could be ruled out for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: declined
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: declines
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: denied
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: denies
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: deny
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: denying
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: did rule (the patient|him|her) out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: did rule out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: did rule her out against
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: fails to reveal
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: free of
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
-Lex: gram negative
-Regex: (sandeep@123)
-Type: PSEUDONEG
----
-Comments: ''
-Direction: forward
 Lex: low probability
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: might be ruled out for
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: 3/22/2013
 Direction: forward
 Lex: mimicking
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: must be ruled out for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -289,19 +283,19 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: negative for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: never developed
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: never had
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -313,19 +307,19 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: 2/28/2013; changed from probable to definite
 Direction: forward
 Lex: no abnormal
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no cause of
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no convincing
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -343,43 +337,43 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: no findings of
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no findings to indicate
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no new
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no obvious
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no other
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no sign of
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no significant
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -397,7 +391,7 @@ Type: PROBABLE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: no suggestion
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: 2/14/2013
@@ -415,115 +409,85 @@ Type: PROBABLE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: not appreciate
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: not associated with
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
----
-Comments: ''
-Direction: forward
-Lex: not cause
-Regex: (sandeep@123)
-Type: PSEUDONEG
----
-Comments: ''
-Direction: forward
-Lex: not certain whether
-Regex: (sandeep@123)
-Type: PSEUDONEG
 ---
 Comments: 3/22/2013
 Direction: forward
 Lex: not clearly evident
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: not complain of
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: not demonstrate
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
----
-Comments: ''
-Direction: forward
-Lex: not drain
-Regex: (sandeep@123)
-Type: PSEUDONEG
 ---
 Comments: ''
 Direction: forward
 Lex: not exhibit
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
-Lex: not extend
-Regex: (sandeep@123)
-Type: PSEUDONEG
----
-Comments: ''
-Direction: forward
 Lex: not feel
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: not had
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: not have
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
-Lex: not necessarily
-Regex: (sandeep@123)
-Type: PSEUDONEG
----
-Comments: ''
-Direction: forward
 Lex: not reveal
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: not see
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: not to be
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: nothing
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: patient was not
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: 4/16/2013
@@ -535,19 +499,19 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: ruled out against
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: ruled out for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: rules her out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -571,31 +535,31 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: rules out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: rules out for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: rules the patient out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: rules the patient out for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: 3/22/2013
 Direction: forward
 Lex: simulating
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -607,37 +571,31 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: to exclude
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: unremarkable for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: with no
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: without
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
-Lex: without difficulty
-Regex: (sandeep@123)
-Type: PSEUDONEG
----
-Comments: ''
-Direction: forward
 Lex: without indication
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -649,37 +607,37 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: forward
 Lex: '#NAME?'
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: (no|nothing) convincing
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: (the patient|him|her) was not
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: can rule out
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: can rule out against
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: can rule out for
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
@@ -691,42 +649,35 @@ Type: DEFINITE_NEGATED_EXISTENCE
 Comments: ''
 Direction: backward
 Lex: excluded
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no other (CT|radiographic|sonographic|MR|etc) evidence
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no secondary (CT|radiographic|sonographic|MR|etc) signs
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: forward
 Lex: no suspicious
-Regex: (sandeep@123)
+Regex: ''
 Type: PROBABLE_NEGATED_EXISTENCE
 ---
 Comments: ''
 Direction: bidirectional
 Lex: not likely
-Regex: (sandeep@123)
+Regex: ''
 Type: DEFINITE_NEGATED_EXISTENCE
----
-Comments: ''
-Direction: forward
-Lex: not only
-Regex: (sandeep@123)
-Type: PSEUDONEG
 ---
 Comments: ''
 Direction: forward
 Lex: decrease the likelihood
 Regex: decreas[a-z]+(\sthe)? likelihood
 Type: PROBABLE_NEGATED_EXISTENCE
----
