@@ -7,8 +7,14 @@ Type: enlarged_pituitary_gland
 Comments: ipilimumab
 Direction: bidirectional
 Lex: ipilimumab
-Regex: ipilimumab
-Type: IPILIMUMAB
+Regex: ''
+Type: CRITICAL_FINDING
+---
+Comments: ipilimumab
+Direction: bidirectional
+Lex: ipilimumab
+Regex: ''
+Type: IPILIMUMAB_ABCD
 ---
 Comments: cancer
 Direction: bidirectional
