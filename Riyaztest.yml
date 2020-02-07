@@ -49,5 +49,5 @@ Type: venous angioma
 Comments: angioma
 Direction: bidirectional
 Lex: angioma
-Regex: angioma|inflammatory}abcd
+Regex: angioma|inflammatory|abcd
 Type: angioma
