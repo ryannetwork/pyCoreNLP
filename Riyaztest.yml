@@ -4,18 +4,6 @@ Lex: enlarged
 Regex: enlarged
 Type: enlarged_pituitary_gland
 ---
-Comments: renal carcinoma
-Direction: bidirectional
-Lex: renal carcinoma
-Regex: ''
-Type: carcinoma
----
-Comments: metastatic carcinoma
-Direction: bidirectional
-Lex: metastatic carcinoma
-Regex: ''
-Type: carcinoma
----
 Comments: ipilimumab
 Direction: bidirectional
 Lex: ipilimumab
@@ -27,18 +15,6 @@ Direction: bidirectional
 Lex: cancer
 Regex: cancer
 Type: CANCER
----
-Comments: meta carcinoma
-Direction: bidirectional
-Lex: meta carcinoma
-Regex: ''
-Type: carcinoma
----
-Comments: carcinoma
-Direction: bidirectional
-Lex: carcinoma
-Regex: ''
-Type: carcinoma
 ---
 Comments: venous angioma
 Direction: bidirectional
