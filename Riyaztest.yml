@@ -21,3 +21,9 @@ Direction: ''
 Lex: inflammation
 Regex: inflammation|inflammatory|infection
 Type: INFLAMMATION
+---
+Comments: abcd
+Direction: bidirectional
+Lex: abcd
+Regex: (sandeep@123)
+Type: abcd
