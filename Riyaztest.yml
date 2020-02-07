@@ -8,7 +8,7 @@ Comments: ipilimumab
 Direction: bidirectional
 Lex: ipilimumab
 Regex: ipilimumab
-Type: CANCER
+Type: IPILIMUMAB
 ---
 Comments: cancer
 Direction: bidirectional
@@ -20,7 +20,7 @@ Comments: venous angioma
 Direction: bidirectional
 Lex: venous angioma
 Regex: (sandeep@123)
-Type: venous angioma
+Type: venous_angioma
 ---
 Comments: angioma
 Direction: bidirectional
