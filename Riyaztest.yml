@@ -28,6 +28,12 @@ Lex: carcinoma
 Regex: ''
 Type: carcinoma
 ---
+Comments: cancer
+Direction: bidirectional
+Lex: cancer
+Regex: cancer
+Type: CANCER 
+---
 Comments: venous angioma
 Direction: bidirectional
 Lex: venous angioma
