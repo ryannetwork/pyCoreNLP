@@ -33,3 +33,9 @@ Direction: ''
 Lex: cholecystitis
 Regex: ''
 Type: CHOLECYSTITIS
+---
+Comments: Spine, Neuro, ABD/Pel, Chest, Extremity
+Direction: ''
+Lex: cancer
+Regex: cancer|metastatic(\sdisease|\slesion)?|metastases|carcinoma|sarcoma|malignancy
+Type: CANCER
