@@ -4,6 +4,12 @@ Lex: enlarged
 Regex: enlarged
 Type: enlarged_pituitary_gland
 ---
+Comments: carcinoma
+Direction: bidirectional
+Lex: carcinoma
+Regex: ''
+Type: carcinoma
+---
 Comments: venous angioma
 Direction: bidirectional
 Lex: venous angioma
