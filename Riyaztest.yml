@@ -33,10 +33,5 @@ Direction: bidirectional
 Lex: abcd
 Regex: (sandeep@123)
 Type: abcd
----
-Comments: ABD/Pel
-Direction: ''
-Lex: cholecystitis
-Regex: ''
-Type: CHOLECYSTITIS
+
 
