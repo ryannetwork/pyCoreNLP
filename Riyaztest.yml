@@ -1,0 +1,17 @@
+Comments: enlarged pituitary gland
+Direction: bidirectional
+Lex: enlarged pituitary gland
+Regex: (sandeep@123)
+Type: enlarged pituitary gland
+---
+Comments: venous angioma
+Direction: bidirectional
+Lex: venous angioma
+Regex: (sandeep@123)
+Type: venous angioma
+---
+Comments: angioma
+Direction: bidirectional
+Lex: angioma
+Regex: (sandeep@123)
+Type: angioma
