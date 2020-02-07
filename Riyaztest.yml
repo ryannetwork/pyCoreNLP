@@ -13,6 +13,6 @@ Type: venous angioma
 Comments: angioma
 Direction: bidirectional
 Lex: angioma
-Regex: ''
+Regex: angioma|inflammatory|infection
 Type: angioma
 
