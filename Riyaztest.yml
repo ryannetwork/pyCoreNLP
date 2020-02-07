@@ -1,8 +1,8 @@
 Comments: enlarged pituitary gland
 Direction: bidirectional
-Lex: enlarged pituitary gland
-Regex: (sandeep@123)
-Type: enlarged pituitary gland
+Lex: enlarged
+Regex: enlarged
+Type: enlarged_pituitary_gland
 ---
 Comments: venous angioma
 Direction: bidirectional
