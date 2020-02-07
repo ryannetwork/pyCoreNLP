@@ -16,6 +16,12 @@ Lex: ipilimumab
 Regex: ''
 Type: IPILIMUMAB_ABCD
 ---
+Comments: Chest
+Direction: ''
+Lex: pulmonary embolism
+Regex: pulmonary\s(artery )?(embol[a-z]+)|\bpe\b|pulmonary thromboembolic disease
+Type: PULMONARY_EMBOLISM
+---
 Comments: cancer
 Direction: bidirectional
 Lex: cancer
