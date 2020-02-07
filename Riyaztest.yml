@@ -39,3 +39,4 @@ Direction: ''
 Lex: cancer
 Regex: cancer|metastatic(\sdisease|\slesion)?|metastases|carcinoma|sarcoma|malignancy
 Type: CANCER
+---
