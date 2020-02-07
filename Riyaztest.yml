@@ -4,9 +4,15 @@ Lex: enlarged
 Regex: enlarged
 Type: enlarged_pituitary_gland
 ---
+Comments: metastatic carcinoma
+Direction: bidirectional
+Lex: metastatic carcinoma
+Regex: ''
+Type: carcinoma
+---
 Comments: meta carcinoma
 Direction: bidirectional
-Lex: carcinoma
+Lex: meta carcinoma
 Regex: ''
 Type: carcinoma
 ---
