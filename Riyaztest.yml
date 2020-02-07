@@ -15,3 +15,9 @@ Direction: bidirectional
 Lex: angioma
 Regex: (sandeep@123)
 Type: angioma
+---
+Comments: Spine, Neuro, ABD/Pel, Extremity
+Direction: ''
+Lex: inflammation
+Regex: inflammation|inflammatory|infection
+Type: INFLAMMATION
