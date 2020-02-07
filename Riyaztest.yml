@@ -22,6 +22,12 @@ Lex: ipilimumab
 Regex: ipilimumab
 Type: CANCER
 ---
+Comments: cancer
+Direction: bidirectional
+Lex: cancer
+Regex: cancer
+Type: CANCER
+---
 Comments: meta carcinoma
 Direction: bidirectional
 Lex: meta carcinoma
